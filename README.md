@@ -59,3 +59,4 @@ query bookDetails {
 
 # SCREENSHOTS
 
+![image](https://github.com/keelyb/graphql_java/assets/7407493/237a2d52-1bc7-4cca-9d0e-4b1ea8fdf588)
